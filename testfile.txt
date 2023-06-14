@@ -1,0 +1,4 @@
+push the existing reposity from command line 
+git add filename.txt
+git remote add origin https://github.com/vidyathati/git_practice.git
+
